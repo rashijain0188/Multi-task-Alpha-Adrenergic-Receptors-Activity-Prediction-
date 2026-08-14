@@ -1,0 +1,15 @@
+{
+  "node_dim": 180,
+  "edge_dim": 16,
+  "n_tasks": 3,
+  "label_cols": [
+    "ADRA1A_label",
+    "ADRA1B_label",
+    "ADRA1D_label"
+  ],
+  "task_names": [
+    "ADRA1A",
+    "ADRA1B",
+    "ADRA1D"
+  ]
+}
