@@ -78,15 +78,15 @@ Save the "Molecules\_to\_check.csv" file in the same folder as scripts.
 
 python dmpnn\_predict\_and\_explain.py \\
 
-&#x20;   --csv my\_molecules.csv \\
+   --csv my\_molecules.csv \\
 
-&#x20;   --smiles\_col SMILES \\
+   --smiles\_col SMILES \\
 
-&#x20;   --model\_dir model \\
+   --model\_dir model \\
 
-&#x20;   --hp\_config hpo/best\_hyperparameters.json \\
+   --hp\_config hpo/best\_hyperparameters.json \\
 
-&#x20;   --out\_dir results
+   --out\_dir results
 
 ```
 
@@ -125,13 +125,7 @@ After execution, a folder named `predict\_out` will be generated containing:
 If you use this repository or the associated model in your research, please cite the related publication:
 
 ```text
-Rashi Jain, Prabha Garg. A Multi-Task D-MPNN Framework for Predicting Alpha-1 Adrenergic Receptor Antagonists with a Drug Repurposing Study Targeting ADRA1D. Journal Name. Year.
-```
-
-DOI:
-
-```text
-DOI: 
+Rashi Jain, Prabha Garg. A Multi-Task D-MPNN Framework for Predicting Alpha-1 Adrenergic Receptor Antagonists with a Drug Repurposing Study Targeting ADRA1D. 
 ```
 
 \---
